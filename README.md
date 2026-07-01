@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm an aspiring Software Engineer and Full-Stack Developer passionate about problem-solving and building web applications. I love diving deep into backend logic with Java and Python, managing relational databases, and crafting responsive user interfaces. 
+Hi! I'm an aspiring Software Engineer and Full-Stack Developer passionate about problem-solving and building web applications. I love diving deep into backend logic, working with low-level systems and microcontrollers, managing relational databases, and crafting responsive user interfaces. 
 
 * 🧩 Currently sharpening my problem-solving skills with **Data Structures & Algorithms**.
 * ⚛️ Actively expanding my frontend toolkit by learning **React.js**.
@@ -20,6 +20,10 @@ Hi! I'm an aspiring Software Engineer and Full-Stack Developer passionate about 
 ## 🛠️ Tech Stack
 
 ### Languages & Backend
+<!-- C Badge -->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<!-- C++ Badge -->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!-- Java Badge -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <!-- Python Badge -->
