@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
 <p align="center">
   👨‍💻 <b>Aspiring Software Engineer</b> • 🌐 <b>Aspiring Full-Stack Developer</b> <br>
   <i>"Building efficient solutions, mastering data structures, and learning every day."</i>
@@ -7,13 +5,13 @@
 
 <hr />
 
-## 🚀 About Me
+##  About Me
 
 Hi! I'm an aspiring Software Engineer and Full-Stack Developer passionate about problem-solving and building web applications. I love diving deep into backend logic, working with low-level systems and microcontrollers, managing relational databases, and crafting responsive user interfaces. 
 
-* 🧩 Currently sharpening my problem-solving skills with **Data Structures & Algorithms**.
-* ⚛️ Actively expanding my frontend toolkit by learning **React.js**.
-* 🔧 Version control enthusiast using **Git & GitHub** for all my development workflows.
+*  Currently sharpening my problem-solving skills with **Data Structures & Algorithms**.
+*  Actively expanding my frontend toolkit by learning **React.js**.
+*  Version control enthusiast using **Git & GitHub** for all my development workflows.
 
 <hr />
 
@@ -49,12 +47,12 @@ Hi! I'm an aspiring Software Engineer and Full-Stack Developer passionate about 
   <summary>🔧 <b>Tools & Methodologies</b></summary>
   <br />
   
-  * 🧩 **Data Structures & Algorithms (DSA)**
-  * ⚙️ **Git & GitHub** for version control and collaboration
+  *  **Data Structures & Algorithms (DSA)**
+  *  **Git & GitHub** for version control and collaboration
 </details>
 
 <hr />
 
 <blockquote>
-  📚 <b>Current Focus:</b> Deepening my understanding of full-stack architectures and optimizing algorithmic complexity.
+   <b>Current Focus:</b> Deepening my understanding of full-stack architectures and optimizing algorithmic complexity.
 </blockquote>
